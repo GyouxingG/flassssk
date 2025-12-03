@@ -1,0 +1,18 @@
+{
+  "exercises": [
+    {
+      "question": "什么是Python编程？",
+      "type": "简答题",
+      "score": 10
+    },
+    {
+      "question": "Python编程有什么特点？",
+      "type": "简答题",
+      "score": 10
+    }
+  ],
+  "explanations": [
+    "Python编程是一个重要的概念。",
+    "学习Python编程需要掌握基本概念。"
+  ]
+}
